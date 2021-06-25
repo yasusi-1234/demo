@@ -22,10 +22,4 @@ public class SampleController {
         return "index";
     }
 
-    @GetMapping("3")
-    public String sampleGet3(Model model){
-        model.addAttribute("hello", "Hello World3!!!");
-        return "index";
-    }
-
 }
