@@ -22,4 +22,6 @@ public class SampleController {
         return "index";
     }
 
+    // test
+
 }
