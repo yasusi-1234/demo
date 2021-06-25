@@ -16,4 +16,10 @@ public class SampleController {
         return "index";
     }
 
+    @GetMapping("2")
+    public String sampleGet2(Model model){
+        model.addAttribute("hello", "Hello World2!!!");
+        return "index";
+    }
+
 }
