@@ -24,6 +24,4 @@ public class SampleController {
 
     // test
 
-    // test2
-
 }
