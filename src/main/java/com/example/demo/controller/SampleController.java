@@ -24,4 +24,5 @@ public class SampleController {
 
     // test
     // test2
+    // コメント
 }
